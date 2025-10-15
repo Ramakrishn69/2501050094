@@ -1,0 +1,25 @@
+body {
+font-family: Arial, sans-serif;
+margin: 40px;
+}
+div{
+background-color: palegoldenrod;
+}
+form {
+max-width: 500px;
+}
+label {
+display: block;
+margin-top: 15px;
+font-weight: bold;
+}
+input, select, textarea {
+width: 100%;
+padding: 8px;
+margin-top: 5px;
+box-sizing: border-box;
+}
+button {
+margin-top: 20px;
+padding: 10px 20px;
+}
